@@ -1,0 +1,4 @@
+# saída de compilação e caches
+*.class
+__pycache__/
+*.pyc

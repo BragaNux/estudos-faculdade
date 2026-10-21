@@ -1,0 +1,13 @@
+HeapSort com Max-Heap:
+
+    Constrói um Max-Heap, onde o maior elemento está sempre na raiz, e depois reordena o array extraindo o maior elemento repetidamente.
+
+HeapSort com Min-Heap:
+
+    Constrói um Min-Heap, onde o menor elemento está sempre na raiz, e então inverte a lógica do HeapSort, realizando a ordenação crescente.
+
+Counting Sort:
+
+    O Counting Sort é um algoritmo de ordenação baseado em contagem de elementos. Ele é eficiente para ordenar números inteiros dentro de um intervalo limitado, 
+    utilizando um array auxiliar para armazenar as ocorrências de cada elemento e depois calcular suas posições corretas no array final. Sua complexidade é O(n+k)
+    onde 𝑘 é o valor máximo no array.
